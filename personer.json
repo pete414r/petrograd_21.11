@@ -1,0 +1,124 @@
+[
+    {
+        "id": "10",
+        "fornavn": "Forretten",
+        "efternavn": "Russisk ringbrød med vindruer",
+        "alder": 39,
+        "stjerner": 1
+     },
+    {
+        "id": "12",
+        "fornavn": "Forretten",
+        "efternavn": "Cabanossi med rødbedecreme",
+        "alder": 49,
+        "stjerner": 2
+     },
+    {
+        "id": "14",
+        "fornavn": "Forretten",
+        "efternavn": "Caviar bruschetta",
+        "alder": 49,
+        "stjerner": 4
+     },
+    {
+        "id": "17",
+        "fornavn": "Forretten",
+        "efternavn": "Baltisk bondesuppe",
+        "alder": 79,
+        "stjerner": 3
+     },
+    {
+        "id": "19",
+        "fornavn": "Forretten",
+        "efternavn": "Østsibirisk kålsuppe",
+        "alder": 69,
+        "stjerner": 1
+     },
+
+    {
+        "id": "2",
+        "fornavn": "Hovedretten",
+        "efternavn": "Bulgarsk bondesuppea",
+        "alder": 99,
+        "stjerner": 4
+     },
+    {
+        "id": "21",
+        "fornavn": "Hovedretten",
+        "efternavn": "Kæmperogn med kartoffelmos",
+        "alder": 89,
+        "stjerner": 4
+     },
+    {
+        "id": "25",
+        "fornavn": "Hovedretten",
+        "efternavn": "Diplomat-bøf med grønt",
+        "alder": 179,
+        "stjerner": 2
+     },
+
+    {
+        "id": "34",
+        "fornavn": "Hovedretten",
+        "efternavn": "Zygroffs bondeplatte",
+        "alder": 109,
+        "stjerner": 4
+     },
+    {
+        "id": "36",
+        "fornavn": "Hovedretten",
+        "efternavn": "Russisk Tapas",
+        "alder": 199,
+        "stjerner": 3
+
+     },
+
+    {
+        "id": "42",
+        "fornavn": "Desserten",
+        "efternavn": "Pandekager med kaviar",
+        "alder": 79,
+        "stjerner": 5
+
+     },
+    {
+        "id": "43",
+        "fornavn": "Desserten",
+        "efternavn": "Guzni",
+        "alder": 69,
+        "stjerner": 4
+
+     },
+    {
+        "id": "55",
+        "fornavn": "Drikkevare",
+        "efternavn": "Bochkarev fadøl",
+        "alder": 55,
+        "stjerner": 5
+
+     },
+    {
+        "id": "60",
+        "fornavn": "Drikkevare",
+        "efternavn": "Voda-vodka",
+        "alder": 19,
+        "stjerner": 5
+     },
+    {
+        "id": "76",
+        "fornavn": "Drikkevare",
+        "efternavn": "Hvidvin, glas",
+        "alder": 39,
+        "stjerner": 4
+
+     },
+    {
+        "id": "80",
+        "fornavn": "Sideorder",
+        "efternavn": "Kogte kartofler",
+        "alder": 29,
+        "stjerner": 0
+
+     }
+
+]
